@@ -1,5 +1,9 @@
 # 🎯 JokoUI
 
+![Coverage](https://img.shields.io/badge/Test_Coverage-YNTKTS-red?style=for-the-badge)
+![Responsibility](https://img.shields.io/badge/Responsibility-0%25-orange?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Serving-Prabogo-blue?style=for-the-badge)
+
 > *A lightweight, reactive vanilla JavaScript framework designed exclusively for [Prabogo Backend](https://github.com/prabogo)*
 
 **JokoUI + Prabogo = Indonesia Emas 2045 Hijriah** 🇮🇩✨  
