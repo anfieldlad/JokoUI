@@ -5,6 +5,8 @@
 **JokoUI + Prabogo = Indonesia Emas 2045 Hijriah** 🇮🇩✨  
 *Because why use React, Vue, or Angular when you can build your own framework and mass produce bugs domestically?*
 
+> ⚠️ **DISCLAIMER**: No Ijazah required to use this framework. We don't check your diploma, your GPA, or whether your university is even accredited. Your code either works or it doesn't. Meritocracy at its finest.
+
 ---
 
 ## 🚀 Features
